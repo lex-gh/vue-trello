@@ -4,16 +4,14 @@
 
 <img src="./screenshot.png" width="100%">
 
-<h2 align="center"><a  href="#">Live Demo</a></h2>
+<h2 align="center"><a  href="https://aleksey-br.github.io/vue-trello/">Live Demo</a></h2>
 
 ## Описание
 
 ---
 
-<br>
 <p align="center">
 <img align="center" src="./screen-gif.gif" width="80%"></p>
-<br>
 
 Таск-менеджер реализован на Vue3 (composition API) c использованием Vuex. Для взаимодействия с досками и задачами используется библиотека [Vue Smooth DnD](https://github.com/kutlugsahin/vue-smooth-dnd/). Для хранения используется LocaleStorage.
 
@@ -33,7 +31,7 @@
 ---
 
 ```
-git clone
+git clone https://github.com/aleksey-br/vue-trello.git
 
 npm install
 ```
