@@ -9,8 +9,12 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "firebase": "^9.23.0",
+    "material-design-icons-iconfont": "^6.7.0",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3",
+    "vue3-smooth-dnd": "^0.0.5",
+    "vuefire": "^3.0.0-alpha.9",
     "vuex": "^4.0.0"
   },
   "devDependencies": {
@@ -21,7 +25,12 @@
     "@vue/cli-plugin-router": "~5.0.0",
     "@vue/cli-plugin-vuex": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
+    "autoprefixer": "^10.4.14",
     "eslint": "^7.32.0",
-    "eslint-plugin-vue": "^8.0.3"
+    "eslint-plugin-vue": "^8.0.3",
+    "postcss": "^8.4.24",
+    "sass": "^1.63.6",
+    "sass-loader": "^13.3.2",
+    "tailwindcss": "^3.3.2"
   }
 }
