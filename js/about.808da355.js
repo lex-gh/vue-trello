@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_trello"]=self["webpackChunkvue_trello"]||[]).push([[443],{2637:function(e,n,u){u.r(n),u.d(n,{default:function(){return f}});var t=u(3396);const r={class:"about"},a=(0,t._)("h1",null,"This is an about page",-1),s=[a];function l(e,n){return(0,t.wg)(),(0,t.iD)("div",r,s)}var c=u(89);const o={},i=(0,c.Z)(o,[["render",l]]);var f=i}}]);
+//# sourceMappingURL=about.808da355.js.map
