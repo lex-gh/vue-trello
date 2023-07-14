@@ -1,7 +1,7 @@
 <h1 align="center">Vuello.</h1>
 
 <img src="./screenshot.png" width="100%">
-<h2 align="center"><a  href="https://aleksey-br.github.io/vue-trello/">Live Demo</a></h2>
+<h2 align="center"><a  href="https://lex-gh.github.io/vue-trello/">Live Demo</a></h2>
 
 ## Описание
 
